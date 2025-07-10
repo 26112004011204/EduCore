@@ -1,1 +1,1 @@
-# EduCore
+# SkillSprint-OnlineEducationalSystem
